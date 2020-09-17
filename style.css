@@ -1,0 +1,17 @@
+body {
+  width: 100vw;
+  height: 100vh;
+  margin: 0;
+}
+
+#bloco {
+  width: 100px;
+  height: 100px;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+#bloco img {
+  max-height: 100%;
+}
